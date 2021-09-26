@@ -1,0 +1,200 @@
+[Epoch 0 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['podiums', 'upon', 'bottom', 'bottom', 'eagerly', 'alpine', 'overturned', 'overturned', 'overturned', 'stack', 'sleeps', 'beach', 'beach', 'stores', 'stores', 'observes', 'stores', 'polo', 'polo', 'bundle', 'polo', 'attend', 'symphony', 'symphony', 'symphony', 'donkeys', 'laboratory', 'laboratory', 'symphony', 'laboratory', 'symphony', 'laboratory', 'symphony', 'symphony', 'laboratory', 'symphony', 'laboratory', 'symphony', 'symphony', 'laboratory', 'symphony', 'symphony', 'laboratory', 'symphony', 'symphony', 'laboratory', 'symphony', 'laboratory', 'symphony', 'symphony']
+[Epoch 1 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'child', 'in', 'a', 'black', 'shirt', 'is', 'a', 'a', 'a', 'a', 'a', 'a', '.', '.', '<eos>']
+[Epoch 2 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', '<unk>', 'player', 'with', 'a', '<unk>', '<unk>', '<unk>', '<unk>', '<unk>', '<unk>', '<unk>', '.', '<eos>']
+[Epoch 3 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'football', 'player', 'with', 'a', 'a', 'of', 'a', 'a', 'of', 'a', 'a', 'of', 'a', '.', '<eos>']
+[Epoch 4 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'basketball', 'player', 'with', 'a', 'number', 'of', 'to', 'a', 'a', 'a', 'a', 'a', '.', '<eos>']
+[Epoch 5 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'bull', 'with', 'with', 'a', 'number', 'of', 'people', 'are', 'from', 'a', 'large', 'large', 'large', '.', '.', '<eos>']
+[Epoch 6 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'with', 'with', 'a', 'large', 'of', 'a', 'large', 'large', 'of', 'a', 'large', 'large', '.', '<eos>']
+[Epoch 7 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'with', 'with', 'several', 'men', 'pulled', 'by', 'a', 'large', 'of', 'a', 'large', 'group', 'of', 'people', '.', '<eos>']
+[Epoch 8 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'with', 'with', 'several', 'men', 'pulled', 'by', 'a', 'large', 'of', 'of', 'a', '.', '<eos>']
+[Epoch 9 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'with', 'many', 'passengers', 'pulled', 'pulled', 'by', 'a', 'large', 'of', 'men', 'are', 'being', 'pulled', '.', '<eos>']
+[Epoch 10 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'with', 'many', 'men', 'pulled', 'pulled', 'from', 'a', 'large', 'bull', 'where', 'a', 'group', 'of', 'people', '.', '<eos>']
+[Epoch 11 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'with', 'many', 'men', 'pulled', 'pulled', 'by', 'a', 'large', 'ford', 'where', 'a', 'group', 'of', 'spectators', 'watching', '.', '<eos>']
+[Epoch 12 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'with', 'several', 'men', 'pulled', 'pulled', 'pulled', 'by', 'a', 'large', 'ford', '.', '<eos>']
+[Epoch 13 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'with', 'several', 'men', 'pulled', 'pulled', 'by', 'a', 'large', 'car', 'while', 'several', 'other', 'men', 'look', 'on', '.', '<eos>']
+[Epoch 14 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'with', 'several', 'men', 'pulled', 'pulled', 'by', 'a', 'large', 'pile', 'of', 'blocks', '.', '<eos>']
+[Epoch 15 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'with', 'several', 'men', 'being', 'pulled', 'by', 'a', 'large', 'ford', 'of', 'horses', '.', '<eos>']
+[Epoch 16 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'with', 'several', 'men', 'pulled', 'pulled', 'by', 'a', 'large', 'of', 'a', 'large', '.', '<eos>']
+[Epoch 17 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'with', 'several', 'men', '<unk>', 'pulled', 'by', 'a', 'large', 'bull', 'of', 'horses', '.', '<eos>']
+[Epoch 18 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'with', 'several', 'men', 'being', 'pulled', 'off', 'a', 'large', 'bull', 'of', 'the', 'large', 'team', '.', '<eos>']
+[Epoch 19 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'boat', 'with', 'several', 'men', 'is', 'being', 'pulled', 'by', 'a', 'large', 'of', 'men', '.', '<eos>']
+[Epoch 20 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'a', 'large', 'boat', 'of', 'different', 'men', '.', '<eos>']
+[Epoch 21 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'pulled', 'pulled', 'by', 'a', 'large', 'bull', 'at', 'different', 'horses', '.', '<eos>']
+[Epoch 22 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'a', 'stopped', 'stopped', 'by', 'different', 'different', 'horses', '.', '<eos>']
+[Epoch 23 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'a', 'large', ',', 'as', 'several', 'men', 'look', 'on', '.', '<eos>']
+[Epoch 24 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'many', 'men', 'is', 'pulled', 'by', 'by', 'a', 'large', 'cable', 'of', 'horses', '.', '<eos>']
+[Epoch 25 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'the', 'shore', 'of', 'a', 'large', 'team', 'horses', 'horses', '.', '<eos>']
+[Epoch 26 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'boat', 'several', 'men', 'is', 'pulled', 'out', 'of', 'a', 'large', 'ford', 'at', 'the', 'gate', '.', '<eos>']
+[Epoch 27 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'out', 'of', 'a', 'large', 'arena', 'at', 'the', 'number', 'of', 'horses', '.', '<eos>']
+[Epoch 28 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'the', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 29 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'the', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 30 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'a', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 31 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'pulled', 'out', 'of', 'a', 'large', 'team', 'of', 'horses', 'as', 'it', 'from', 'the', 'rodeo', '.', '<eos>']
+[Epoch 32 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'off', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 33 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'off', 'a', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 34 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'off', 'the', 'shore', 'by', 'a', 'large', 'team', 'horses', '.', '<eos>']
+[Epoch 35 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'pulled', 'by', 'a', 'large', 'team', 'of', 'horses', 'as', 'it', 'watch', '.', '<eos>']
+[Epoch 36 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 37 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 38 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'shore', 'from', 'a', 'shore', 'by', 'a', 'large', 'team', 'horses', '.', '<eos>']
+[Epoch 39 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 40 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'has', 'pulled', 'by', 'shore', 'by', 'a', 'large', 'cable', 'of', 'horses', '.', '<eos>']
+[Epoch 41 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'to', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 42 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'to', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 43 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 44 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 45 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 46 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'to', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 47 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'pulled', 'by', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 48 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'by', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
+[Epoch 49 / 50]
+=> Saving checkpoint
+Translated example sentence: 
+ ['a', 'boat', 'carrying', 'several', 'men', 'is', 'pulled', 'to', 'shore', 'by', 'a', 'large', 'team', 'of', 'horses', '.', '<eos>']
